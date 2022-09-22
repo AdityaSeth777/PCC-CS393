@@ -4,12 +4,12 @@
 
 1. Create a ```python``` virtual environment. 
 2. Clone the repo ```git clone https://github.com/AdityaSeth777/PCC-CS393.git``` or download the repository.
-3. Go to the cloned/downloaded directory ``` cd n.m (where n = 1 to 4 ; m = 1 to 5)```. 
+3. Go to the cloned/downloaded directory ``` cd n.m (where n = 1 to 9 ; m = 1 to 5)```. 
 4. Run ``` pip3 install python ```.
 5. And now you can run the example scripts or create your own scripts.  
 
 ## Usage
-- To run any program, execute ``` python3 n.m (where n = 1 to 4 ; m = 1 to 5)```
+- To run any program, execute ``` python3 n.m (where n = 1 to 9 ; m = 1 to 5)```
 
 ## FAQ
 - How to stop the script? Ctrl+C (control+C for Mac) 

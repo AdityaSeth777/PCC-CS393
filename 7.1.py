@@ -17,3 +17,5 @@ b = int(input("Enter the second number: "))
 c = int(input("Enter the third number: "))
 
 print("The greatest number is:", maximum(a, b, c))
+
+# Aditya Seth

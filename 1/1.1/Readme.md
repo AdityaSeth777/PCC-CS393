@@ -1,18 +1,26 @@
-Question -> Add two numbers in Python
+# Addition Calculator
 
-```
-Explanation ->
-The given Python script calculates the sum of two numbers entered by the user. Let's go through the solution step by step:
+This Python program is an addition calculator that prompts the user to enter two numbers and calculates their sum. It then displays the result to the user.
 
-a=int(input("Enter the first number: ")): This line prompts the user to enter the first number. The input() function is used to receive user input as a string, and int() is used to convert the input to an integer. The entered value is assigned to the variable a.
+## How it Works
 
-b=int(input("Enter the second number: ")): Similar to the previous line, this line prompts the user to enter the second number. The entered value is converted to an integer and assigned to the variable b.
+1. The program prompts the user to enter the first number and stores it in the variable `a`.
+2. The program prompts the user to enter the second number and stores it in the variable `b`.
+3. The program adds the values of `a` and `b` together and assigns the result to the variable `c`.
+4. Finally, the program displays the sum by printing the value of `c` along with an explanatory message.
 
-c=a+b: This line calculates the sum of the two numbers by adding the values of a and b. The result is stored in the variable c.
+## Example Usage
 
-print("The sum is: ", c): Finally, this line prints the sum of the two numbers. The print() function is used to display the output, which includes the string "The sum is: " followed by the value of c.
+Enter the first number: 5  
+Enter the second number: 7
 
-The script takes two numbers as input, adds them together, and then displays the sum to the user.
-```
+The sum is: 12
+
+## Caption
+
+"Adding Two Numbers in Python"
+
+This program allows users to input two numbers and calculates their sum using Python. It demonstrates the basic concept of variable assignment, user input, and arithmetic operations. It can be used as a starting point for more complex mathematical calculations or as a simple utility for adding numbers together.
+
 
 Output -> ![](./1.1.png)
